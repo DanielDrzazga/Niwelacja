@@ -1,2 +1,2 @@
 # Niwelacja
-first application in java, before learning
+the first application in java, before the start of the course
